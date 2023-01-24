@@ -1,15 +1,24 @@
-# 取り組んだ課題
-- 
+<details>
+<summary>取り組んだ課題</summary>
 
-# わかったこと
-- 
+</details>
 
-# 次やること
-- 
+<details>
+<summary>わかったこと</summary>
 
-# 感想
-- 
+</details>
+
+<details>
+<summary>次やること</summary>
+
+</details>
+
+<details>
+<summary>感想</summary>
+
+</details>
 
 # 勉強時間
 今日: 0h00m
+
 累計: 0h0m
